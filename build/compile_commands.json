@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build",
+  "command": "/usr/bin/clang -DGL_SILENCE_DEPRECATION -Dgraphic -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wdeprecated-declarations -o CMakeFiles/myFem.dir/src/glu.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/glu.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/glu.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build",
+  "command": "/usr/bin/clang -DGL_SILENCE_DEPRECATION -Dgraphic -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wdeprecated-declarations -o CMakeFiles/myFem.dir/src/tsunami.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/tsunami.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/tsunami.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build",
+  "command": "/usr/bin/clang -DGL_SILENCE_DEPRECATION -Dgraphic -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wdeprecated-declarations -o CMakeFiles/myFem.dir/src/homework.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/homework.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/homework.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build",
+  "command": "/usr/bin/clang -DGL_SILENCE_DEPRECATION -Dgraphic -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wdeprecated-declarations -o CMakeFiles/myFem.dir/src/main.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/main.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/src/main.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/context.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/context.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/init.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/init.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/input.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/input.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/monitor.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/monitor.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/vulkan.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/vulkan.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/window.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/window.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_init.m\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_init.m"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_joystick.m\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_joystick.m"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_monitor.m\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_monitor.m"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_window.m\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_window.m"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_time.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/cocoa_time.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/posix_thread.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/nsgl_context.m\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/nsgl_context.m"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/egl_context.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/egl_context.c"
+},
+{
+  "directory": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/include\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src\" -I\"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/build/glfw/src\" -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c \"/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/osmesa_context.c\"",
+  "file": "/Users/nicolasgiourgas/Documents/Université/LEPL1110-Elements finis /Tsunami/glfw/src/osmesa_context.c"
+}
+]
